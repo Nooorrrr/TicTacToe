@@ -1,4 +1,4 @@
 # TicTacToe
 
 A JavaScript based X O game 
-(Youtube tutorial : https://youtu.be/KzUmoedBmZ4 )
+Demo :  https://nooorrrr.github.io/TicTacToe/  
